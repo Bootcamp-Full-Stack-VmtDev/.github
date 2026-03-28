@@ -2,36 +2,38 @@
 
 <p align="center">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
  <!-- 
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   -->
+  <a href="https://www.linkedin.com/in/salinasc-edison/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 En este repositorio comparto lo que voy aprendiendo durante el `Bootcamp Full Stack Developer: Impulsa tu Futuro`, incluyendo ejercicios y prácticas de cada módulo. Aplico mis conocimientos en bases de datos, backend y frontend, registrando avances y mejoras a medida que aprendo.  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/salinasc-edison/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 ## 📚 Módulos y actividad por repositorio
 
-| Módulo                  | Estado                                                                                 | Repositorio                                                                                         | Tecnologías                                 | Commits                                                                                                                                                      | Última actividad                                                                                                           |
-| ----------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 🗄️ Base de Datos       | ![Progreso](https://img.shields.io/badge/Completado-100%25-brightgreen?style=for-the-badge)  | [`bootcamp-database-sqlserver`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver) | SQL Server                             | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver?style=for-the-badge&logo=git&logoColor=white) | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver?style=for-the-badge) |
-| ⚙️ Backend Development  | ![Progreso](https://img.shields.io/badge/En%20progreso-6,25%25-yellow?style=for-the-badge) | [`bootcamp-backend-dotnet`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet)     | .NET          | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet?style=for-the-badge&logo=git&logoColor=white)   | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet?style=for-the-badge)   |
+| Módulo                  | Estado                                                                                 | Repositorio                                                                                         | Commits                                                                                                                                                      | Última actividad                                                                                                           |
+| ----------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 🗄️ Base de Datos       | ![Progreso](https://img.shields.io/badge/Completado-100%25-brightgreen?style=for-the-badge)  | [`bootcamp-database-sqlserver`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver) | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver?style=for-the-badge&logo=git&logoColor=white) | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver?style=for-the-badge) |
+| ⚙️ Backend Development  | ![Progreso](https://img.shields.io/badge/En%20progreso-37,5%25-yellow?style=for-the-badge) | [`bootcamp-backend-dotnet`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet)     | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet?style=for-the-badge&logo=git&logoColor=white)   | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet?style=for-the-badge)   |
 <!--
-| 🎨 Frontend Development | ![Progreso](https://img.shields.io/badge/Próximamente-0%25-lightgrey?style=for-the-badge) | [`bootcamp-frontend-angular`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular) | Angular           | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular?style=for-the-badge&logo=git&logoColor=white) | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular?style=for-the-badge) |
-| 🟢 Node.js       | ![Progreso](https://img.shields.io/badge/Próximamente-0%25-lightgrey?style=for-the-badge) | [`bootcamp-bonus-nodejs`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs)         | Node.js           | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs?style=for-the-badge&logo=git&logoColor=white)           | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs?style=for-the-badge)           |
+| 🎨 Frontend Development | ![Progreso](https://img.shields.io/badge/Próximamente-0%25-lightgrey?style=for-the-badge) | [`bootcamp-frontend-angular`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular) | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular?style=for-the-badge&logo=git&logoColor=white) | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-frontend-angular?style=for-the-badge) |
+| 🟢 Node.js       | ![Progreso](https://img.shields.io/badge/Próximamente-0%25-lightgrey?style=for-the-badge) | [`bootcamp-bonus-nodejs`](https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs)         | ![Commits](https://img.shields.io/github/commit-activity/m/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs?style=for-the-badge&logo=git&logoColor=white)           | ![Última](https://img.shields.io/github/last-commit/Bootcamp-Full-Stack-VmtDev/bootcamp-bonus-nodejs?style=for-the-badge)           |
 -->
 
 ### 🔹 Actividad visual por repositorio
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-VmtDev&repo=bootcamp-database-sqlserver&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-VmtDev&repo=bootcamp-backend-dotnet&theme=tokyonight" />
+  <a href="https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-database-sqlserver">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Bootcamp-Full-Stack-VmtDev&repo=bootcamp-database-sqlserver&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Bootcamp-Full-Stack-VmtDev/bootcamp-backend-dotnet">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Bootcamp-Full-Stack-VmtDev&repo=bootcamp-backend-dotnet&theme=tokyonight" />
+  </a>
 </p>
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bootcamp-Full-Stack-VmtDev&repo=bootcamp-frontend-angular&theme=tokyonight" />
